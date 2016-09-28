@@ -1,0 +1,23 @@
+h1{
+	font-size: 48;
+	color: orange;
+	text-align: center;
+	background-color: rgb(116, 81, 141)
+}
+body{
+	background-color: cyan;
+	color: black;
+	font-size: 18 ;
+	text-align: center;
+
+}
+.center{		/*I did this to bring the 
+				bullet points to the center of the page
+				with the list items*/
+    width:500px;
+    margin:0 auto;
+    text-align:left;
+}
+ul{
+    list-style-type: square; 
+}
