@@ -1,0 +1,24 @@
+body {
+	background-color: #E1EFF0;
+	color: #49402F;
+	
+}
+
+p {
+	line-height: 2;
+}
+
+ol {
+	color: #49402F;
+	position: absolute;
+	top: 75px;
+	right: 450px;
+
+}
+
+h1 {
+	color: black;
+	position: absolute;
+	top: 15px;
+	right: 550px;
+}
