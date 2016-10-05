@@ -1,0 +1,39 @@
+body{
+	background-color: blue;
+	font-family: helvetica, serif;
+}
+
+h1{
+	margin: 80px;
+}
+
+.post img{
+	border-radius: 100%;
+	width: 400px;
+	height: 400px;
+}
+
+.post p{
+	color: white;
+	font-size: 18px;
+	margin: center;
+}
+
+.post h2{
+	color: black;
+}
+
+#logo{
+	width: 200px;
+	margin: 15px;
+}
+
+.footer{
+	font-size: 12px;
+	text-align: center;
+	color: orange;
+}
+
+#featured h2{
+	color: red;
+}
