@@ -1,0 +1,37 @@
+body {
+	background-color: cornflowerblue;
+}
+
+
+img {
+	border-radius: 50%
+
+}
+
+
+.post {
+	color: silver;
+	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px
+	font: "Courier New, Monospace, serif;
+}
+
+.footer{
+	font-size: 10px;
+	color: blue;
+
+h2 {
+	color: red;
+}
+
+
+
+#featured {
+	color: pink;
+	font-size: 30px;
+	
+
+}
