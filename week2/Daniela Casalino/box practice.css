@@ -1,0 +1,63 @@
+.box{
+	background: black;
+}
+
+
+.b1, .white, .b11{
+	display: inline-block;
+	position: relative;
+	margin-top: 40px;
+	margin-left: 5px;
+}
+
+.b1{
+	width:150px;
+	height: 20px;
+	margin-bottom: 25px;
+	margin-left: 5px
+	margin-right: 5px;
+
+
+}
+
+.white{
+	background: white;
+	width: 130px;
+	height: 20px
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.b11{
+	display: inline-block;
+	width: 52px;
+	height: 20px;
+	margin-bottom: 25px;
+	margin-right: 5px
+	
+}
+
+
+
+.b2{
+	width:495px;
+	height:300px;
+	margin:5px;
+
+}
+
+.third{
+	display: inline-block;
+	position: relative;
+	width: 240px;
+	height: 180px;
+	margin: 5px;
+}
+
+
+
+.b4{
+	width: 200px;
+	height: 150px;
+	margin-left: 2.5px;
+}
